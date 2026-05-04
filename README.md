@@ -1,4 +1,12 @@
 
+<pre align="center">
+ ____  _____ _   _    _    _   _ 
+|  _ \| ____| \ | |  / \  | \ | |
+| |_) |  _| |  \| | / _ \ |  \| |
+|  _ <| |___| |\  |/ ___ \| |\  |
+|_| \_\_____|_| \_/_/   \_\_| \_|
+</pre>
+
 <!-- About me -->
 <h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Renan Silva</h1>
 
@@ -41,7 +49,5 @@
 
 <!-- Footer Banner -->
  <div align="center">
-    <img src="https://i.pinimg.com/originals/80/3a/e1/803ae1bdafe8001853898720ef962dec.gif" alt="" srcset="">
-    <br>
-    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0336.gif" alt="scrolling horizontal bar gif ">
+    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0468.gif" alt="scrolling horizontal bar gif ">
  </div>
