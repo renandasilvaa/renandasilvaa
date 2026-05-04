@@ -31,9 +31,3 @@
     </a>
 </div>
 
-<div class="stats">
-    <h2 align="center">My Stats</h2>
-
-   [![Renan's Stats](https://github-readme-stats.vercel.app/api?username=renandasilvaa)](https://github.com/renandasilvaa/github-readme-stats)
-</div>
-
