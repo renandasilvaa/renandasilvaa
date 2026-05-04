@@ -5,9 +5,9 @@
 <h4 align="left">🌟 About Me</h3>
 <div>
     🌴I make anything that comes into my mind. <br>
-    🧠I try to learn everything I can, even non-related stuff to my area <br>
-    ✨One of my dreams is to create something that helps people <br>
-    🔩I'm almost always perfectionist.
+    🧠I try to learn everything I can, even non-related stuff to my area. <br>
+    ✨One of my dreams is to create something that helps people. <br>
+    🔩I'm almost always a perfectionist.
 </div>
 
 <div align="left" class="socials">
