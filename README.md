@@ -1,6 +1,6 @@
 
 <!-- About me -->
-<h1 align="center">Hello!👋 I'm Renan Silva</h1>
+<h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Renan Silva</h1>
 
 <h4 align="left">🌟 About Me</h3>
 <div>
