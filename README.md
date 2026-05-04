@@ -1,29 +1,39 @@
 
 <!-- About me -->
-<h1 align="left">🌟 About Me</h1>
+<h1 align="center">Hello!👋 I'm Renan Silva</h1>
+
+<h4 align="left">🌟 About Me</h3>
 <div>
-    <p>Hey there 👋</p>
-    <p>I'm Renan, a Software Engineer student, a self-proclaimed <i>jack of all trades</i>. I like to do anything that comes across my mind.</p>
+    🌴I make anything that comes into my mind. <br>
+    🧠I try to learn everything I can, even non-related stuff to my area <br>
+    ✨One of my dreams is to create something that helps people <br>
+    🔩I'm almost always perfectionist.
 </div>
 
+<div align="left" class="learning">
+    <h4>🌐What I'm learning: :</h3>
+    <a href="http://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=java">
+    </a>
+</div>
 
+<div align="left" class="socials">
+    <h4>🌐Connect Me:</h3>
+    <a href="http://www.linkedin.com/in/renandasilvaa/">
+        <img src="logos/socials/linkedin-logo.png" alt="java" width="45">
+    </a>
+</div>
 
+<div align="center" class="languages">
+    <h2 align="center">🛠️ Languages-Frameworks-Tools</h2>
+    <a href="http://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,python,lua">
+    </a>
+</div>
 
-<!-- Skills -->
-<h2 align="left">🖥️ Tech Stack</h2>
+<div class="stats">
+    <h2 align="center">My Stats</h2>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua%20-007ACC?style=for-the-badge&logo=lua&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+   [![Renan's Stats](https://github-readme-stats.vercel.app/api?username=renandasilvaa)](https://github.com/renandasilvaa/github-readme-stats)
+</div>
 
-<!-- What I'm learning -->
-<h2 align="left">📕 Learning</h2>
-
-![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-<!-- My socials -->
-<h2 align="left">🗃️ Socials</h2>
-
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/renansilvaa/)
