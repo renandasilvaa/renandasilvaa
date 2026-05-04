@@ -10,24 +10,40 @@
     🔩I'm almost always perfectionist.
 </div>
 
-<div align="left" class="learning">
-    <h4>🌐What I'm learning: :</h3>
-    <a href="http://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java">
-    </a>
-</div>
-
 <div align="left" class="socials">
-    <h4>🌐Connect Me:</h3>
+    <h4>🌐Contact Me:</h3>
     <a href="http://www.linkedin.com/in/renandasilvaa/">
-        <img src="logos/socials/linkedin-logo.png" alt="java" width="45">
+        <img src="https://skillicons.dev/icons?i=linkedin">
+    </a>
+    <a href="https://stackoverflow.com/users/32504363/renan-silva">
+        <img src="https://skillicons.dev/icons?i=stackoverflow">
     </a>
 </div>
 
+<!-- Programming Languages -->
 <div align="center" class="languages">
-    <h2 align="center">🛠️ Languages-Frameworks-Tools</h2>
+    <h3 align="center">🛠️ Languages-Frameworks-Tools</h2>
     <a href="http://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,python,lua">
+        <img src="https://skillicons.dev/icons?i=html,css,python,lua,github,git,figma,vscode,">
     </a>
 </div>
 
+[![](https://github-readme-stats.vercel.app/api?username=renandasilvaa&show_icons=true&theme=radical)](https://github.com/renandasilvaa/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renandasilvaa&layout=compact)
+
+<!-- BuyMeACoffe -->
+<div align="center" class="support-me">
+    <h3 align="center">💰 Support Me</h3>
+    <a href="buymeacoffee.com/renansilva">
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="Buy Me A Coffee" />
+  </a>
+</div>
+
+<!-- Footer Banner -->
+<br>
+<img src="https://i.pinimg.com/originals/80/3a/e1/803ae1bdafe8001853898720ef962dec.gif" alt="" srcset="">
+
+<!-- Footer Scroll Bar GIF -->
+<br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0336.gif" alt="scrolling horizontal bar gif ">
