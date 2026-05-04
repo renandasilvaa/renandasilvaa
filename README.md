@@ -11,7 +11,7 @@
 </div>
 
 <div align="left" class="learning">
-    <h4>🌐What I'm learning: :</h3>
+    <h4>🌐What I'm learning:</h3>
     <a href="http://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=java">
     </a>
