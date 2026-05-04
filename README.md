@@ -28,9 +28,6 @@
     </a>
 </div>
 
-[![](https://github-readme-stats.vercel.app/api?username=renandasilvaa&show_icons=true&theme=radical)](https://github.com/renandasilvaa/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renandasilvaa&layout=compact)
 
 <!-- BuyMeACoffe -->
 <div align="center" class="support-me">
@@ -40,10 +37,11 @@
   </a>
 </div>
 
-<!-- Footer Banner -->
 <br>
-<img src="https://i.pinimg.com/originals/80/3a/e1/803ae1bdafe8001853898720ef962dec.gif" alt="" srcset="">
 
-<!-- Footer Scroll Bar GIF -->
-<br>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0336.gif" alt="scrolling horizontal bar gif ">
+<!-- Footer Banner -->
+ <div align="center">
+    <img src="https://i.pinimg.com/originals/80/3a/e1/803ae1bdafe8001853898720ef962dec.gif" alt="" srcset="">
+    <br>
+    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0336.gif" alt="scrolling horizontal bar gif ">
+ </div>
