@@ -47,9 +47,9 @@
 
 <!-- Programming Languages -->
 <div align="center" class="languages">
-    <h3 align="center">🛠️ Languages-Frameworks-Tools</h2>
+    <h3 align="center">🛠️ Languages I Work With</h2>
     <a href="http://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,python,lua,github,git,figma,vscode,">
+        <img src="https://skillicons.dev/icons?i=html,css,python,lua,git,js">
     </a>
 </div>
 
