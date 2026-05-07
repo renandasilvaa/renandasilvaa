@@ -49,7 +49,7 @@
 <div align="center" class="languages">
     <h3 align="center">🛠️ Languages I Work With</h2>
     <a href="http://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,python,lua,git,js">
+        <img src="https://skillicons.dev/icons?i=html,css,python,lua,js">
     </a>
 </div>
 
