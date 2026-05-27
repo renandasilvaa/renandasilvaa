@@ -27,15 +27,6 @@
     </a>
 </div>
 
-
-<!-- BuyMeACoffe -->
-<div align="center" class="support-me">
-    <h3 align="center">💰 Support Me</h3>
-    <a href="buymeacoffee.com/renansilva">
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="Buy Me A Coffee" />
-  </a>
-</div>
-
 <br>
 
 <!-- Footer Banner -->
