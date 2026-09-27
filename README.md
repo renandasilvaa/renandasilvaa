@@ -21,9 +21,9 @@
 
 <!-- Programming Languages -->
 <div align="center" class="languages">
-    <h3 align="center">🛠️ Languages I Work With</h2>
+    <h3 align="center">🛠️ Languages / Frameworks I Work With</h2>
     <a href="http://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,python,lua,js">
+        <img src="https://skillicons.dev/icons?i=html,css,python,lua,js,dart,java,flutter">
     </a>
 </div>
 
