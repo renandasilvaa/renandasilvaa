@@ -1,15 +1,14 @@
 <!-- About me -->
 <h1 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Renan Silva</h1>
 
-<h4 align="left">🌟 About Me</h3>
-<div>
+<h4 align="center">🌟 About Me</h3>
+<div align="center">
     🌴I make anything that comes into my mind. <br>
     🧠I try to learn everything I can, even non-related stuff to my area. <br>
     ✨One of my dreams is to create something that helps people. <br>
-    🔩I'm almost always a perfectionist.
 </div>
 
-<div align="left" class="socials">
+<div align="center" class="socials">
     <h4>🌐Contact Me:</h3>
     <a href="http://www.linkedin.com/in/renandasilvaa/">
         <img src="https://skillicons.dev/icons?i=linkedin">
