@@ -22,7 +22,7 @@
 <div align="center" class="languages">
     <h3 align="center">🛠️ Languages / Frameworks I Work With</h2>
     <a href="http://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,python,lua,js,dart,java,flutter">
+        <img src="https://skillicons.dev/icons?i=html,css,python,lua,ts,java,react">
     </a>
 </div>
 
